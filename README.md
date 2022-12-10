@@ -1,2 +1,2 @@
 # CodeChallenges-CharlieTheDogSearching
-Charlie Coderbyte Challenge
+CharlieDog Searching Coderbyte Challenge
