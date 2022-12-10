@@ -1,0 +1,15 @@
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/bin/Debug/net7.0/CharlieDogCodeChallenge
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/bin/Debug/net7.0/CharlieDogCodeChallenge.deps.json
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/bin/Debug/net7.0/CharlieDogCodeChallenge.runtimeconfig.json
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/bin/Debug/net7.0/CharlieDogCodeChallenge.dll
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/bin/Debug/net7.0/CharlieDogCodeChallenge.pdb
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/CharlieDogCodeChallenge.csproj.AssemblyReference.cache
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/CharlieDogCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/CharlieDogCodeChallenge.AssemblyInfoInputs.cache
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/CharlieDogCodeChallenge.AssemblyInfo.cs
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/CharlieDogCodeChallenge.csproj.CoreCompileInputs.cache
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/CharlieDogCodeChallenge.dll
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/refint/CharlieDogCodeChallenge.dll
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/CharlieDogCodeChallenge.pdb
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/CharlieDogCodeChallenge.genruntimeconfig.cache
+/Users/andre/Projects/CharlieDogCodeChallenge/CharlieDogCodeChallenge/obj/Debug/net7.0/ref/CharlieDogCodeChallenge.dll
